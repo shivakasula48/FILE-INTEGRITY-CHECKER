@@ -31,3 +31,24 @@ This project was developed using:
 *Git*: For version control and repository management.
 
 *Command Prompt/Terminal*: To execute Python scripts and Git commands.
+
+# Libraries Installed
+
+The following Python libraries were used:
+
+*hashlib*: For calculating hash values of files (part of the standard library, no installation required).
+
+* os *: For interacting with the file system (also part of the standard library).
+
+# Tools Installed
+
+To set up and execute the project, the following were installed:
+
+*Python 3.x*: Downloaded and installed from the official Python website.
+
+*VS Code*: Installed as the primary code editor from the official VS Code website.
+
+*Git*: Installed for managing version control from Git's official website.
+
+
+
