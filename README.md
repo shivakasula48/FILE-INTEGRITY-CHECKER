@@ -57,15 +57,16 @@ Step 1 : Clone the Repository
 
           git clone https://github.com/shivakasula48/FILE-INTEGRITY-CHECKER.git
 
-Step 2  Navigate to the Project Directory
+Step 2 : Navigate to the Project Directory
 
-cd FILE-INTEGRITY-CHECKER
+          cd FILE-INTEGRITY-CHECKER
 
-Step 3 Run the Script
+Step 3 :Run the Script
 
-python file_integrity_checker.py
+          python file_integrity_checker.py
 
-Step 4 Monitor Files:
+Step 4: Monitor Files:
+
 Add files to the directory for monitoring.
 The script will calculate and compare hash values to detect changes.
 
