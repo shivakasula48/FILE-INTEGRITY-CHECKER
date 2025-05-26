@@ -79,6 +79,26 @@ The script will calculate and compare hash values to detect changes.
 
 * By comparing current hash values with previously stored values, the tool identifies any modifications.
 
+# Use Cases
+
+The File Integrity Checker can be applied in various scenarios:
+
+1.System Security:
+
+* Monitor critical system files to detect unauthorized modifications.
+
+2.Data Integrity:
+
+* Verify the integrity of backup files during or after transfer.
+
+3.Compliance:
+
+*Ensure compliance with security standards that require regular file integrity checks.
+
+4.Forensics:
+
+*Detect tampering with logs or evidence files in cybersecurity investigations.
+
 
 
 
