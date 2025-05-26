@@ -20,35 +20,35 @@ The File Integrity Checker is a Python-based tool designed to monitor changes in
 
 This project was developed using:
 
-* *Platform* *: Windows 11
+* *Platform* : Windows 11
 
-*Editor*: Visual Studio Code (VS Code), a powerful and user-friendly code editor.
+* *Editor*: Visual Studio Code (VS Code), a powerful and user-friendly code editor.
 
 # Tools Used
 
-*Python 3.9*: The primary programming language used.
+* *Python 3.9*: The primary programming language used.
 
-*Git*: For version control and repository management.
+* *Git*: For version control and repository management.
 
-*Command Prompt/Terminal*: To execute Python scripts and Git commands.
+* *Command Prompt/Terminal*: To execute Python scripts and Git commands.
 
 # Libraries Installed
 
 The following Python libraries were used:
 
-*hashlib*: For calculating hash values of files (part of the standard library, no installation required).
+* *hashlib*: For calculating hash values of files (part of the standard library, no installation required).
 
-* os *: For interacting with the file system (also part of the standard library).
+* os : For interacting with the file system (also part of the standard library).
 
 # Tools Installed
 
 To set up and execute the project, the following were installed:
 
-*Python 3.x*: Downloaded and installed from the official Python website.
+* *Python 3.x*: Downloaded and installed from the official Python website.
 
-*VS Code*: Installed as the primary code editor from the official VS Code website.
+* *VS Code*: Installed as the primary code editor from the official VS Code website.
 
-*Git*: Installed for managing version control from Git's official website.
+* *Git*: Installed for managing version control from Git's official website.
 
 
 
