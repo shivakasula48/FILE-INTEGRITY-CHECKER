@@ -51,6 +51,34 @@ To set up and execute the project, the following were installed:
 * *Git*: Installed for managing version control from Git's official website.
 
 
+# Steps to Run the Code
+
+* Clone the Repository:
+git clone https://github.com/shivakasula48/FILE-INTEGRITY-CHECKER.git
+
+* Navigate to the Project Directory:
+cd FILE-INTEGRITY-CHECKER
+
+* Run the Script:
+python file_integrity_checker.py
+* Monitor Files:
+
+Add files to the directory for monitoring.
+
+The script will calculate and compare hash values to detect changes.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/e21d7487-e55e-4b1b-8a4f-bb1836e6348e)
