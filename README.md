@@ -53,18 +53,20 @@ To set up and execute the project, the following were installed:
 
 # Steps to Run the Code
 
-* Clone the Repository:
+Step 1  Clone the Repository
+
 git clone https://github.com/shivakasula48/FILE-INTEGRITY-CHECKER.git
 
-* Navigate to the Project Directory:
+Step 2  Navigate to the Project Directory
+
 cd FILE-INTEGRITY-CHECKER
 
-* Run the Script:
+Step 3 Run the Script
+
 python file_integrity_checker.py
-* Monitor Files:
 
+Step 4 Monitor Files:
 Add files to the directory for monitoring.
-
 The script will calculate and compare hash values to detect changes.
 
 
