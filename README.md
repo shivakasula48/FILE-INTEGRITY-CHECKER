@@ -51,4 +51,7 @@ To set up and execute the project, the following were installed:
 * *Git*: Installed for managing version control from Git's official website.
 
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e21d7487-e55e-4b1b-8a4f-bb1836e6348e)
 
