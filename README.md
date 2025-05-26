@@ -40,6 +40,10 @@ The following Python libraries were used:
 
 * os : For interacting with the file system (also part of the standard library).
 
+* time: For implementing periodic file integrity checks (also part of the standard library).
+
+
+
 # Tools Installed
 
 To set up and execute the project, the following were installed:
