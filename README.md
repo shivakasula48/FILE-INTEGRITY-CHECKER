@@ -93,13 +93,61 @@ The File Integrity Checker can be applied in various scenarios:
 
 3.Compliance:
 
-*Ensure compliance with security standards that require regular file integrity checks.
+* Ensure compliance with security standards that require regular file integrity checks.
 
 4.Forensics:
 
-*Detect tampering with logs or evidence files in cybersecurity investigations.
+* Detect tampering with logs or evidence files in cybersecurity investigations.
 
+# Steps to Build the Project
 
+1.Understand the Basics:
+
+* Familiarize yourself with cryptographic hash functions (e.g., SHA256).
+
+2.Setup the Environment:
+
+* Install Python and VS Code.
+
+* Set up Git for version control.
+
+3.Code Development:
+
+* Write the script for hash calculation and comparison.
+
+* Add functionality for real-time monitoring.
+
+4.Testing:
+
+* Use sample files to test for accurate change detection.
+
+# Future Improvements
+
+1.GUI Interface:
+
+* Add a graphical interface for easier usability.
+
+2.Real-Time Monitoring:
+
+* Use file system event listeners to detect changes as they occur.
+
+3.Hash Algorithms:
+
+* Support additional hash functions like MD5, SHA1, or SHA512.
+
+# Acknowledgments
+
+Special thanks to:
+
+* YouTube Tutorials: For guidance on Python file handling and hash functions.
+
+* Stack Overflow: For troubleshooting tips and solutions.
+
+* ChatGPT: For assistance with coding and documentation.
+
+# License
+
+* This project is licensed under the MIT License. Feel free to contribute and improve!
 
 
 
