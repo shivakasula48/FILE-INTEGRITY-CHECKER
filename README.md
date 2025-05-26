@@ -20,7 +20,7 @@ The File Integrity Checker is a Python-based tool designed to monitor changes in
 
 This project was developed using:
 
-*Platform*: Windows 11
+* *Platform* *: Windows 11
 
 *Editor*: Visual Studio Code (VS Code), a powerful and user-friendly code editor.
 
