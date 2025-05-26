@@ -53,9 +53,9 @@ To set up and execute the project, the following were installed:
 
 # Steps to Run the Code
 
-Step 1  Clone the Repository
+Step 1 : Clone the Repository
 
-git clone https://github.com/shivakasula48/FILE-INTEGRITY-CHECKER.git
+          git clone https://github.com/shivakasula48/FILE-INTEGRITY-CHECKER.git
 
 Step 2  Navigate to the Project Directory
 
