@@ -70,6 +70,15 @@ Step 4: Monitor Files:
 Add files to the directory for monitoring.
 The script will calculate and compare hash values to detect changes.
 
+# How It Works
+1.Hash Calculation:
+
+* The script computes a hash value for each file using the SHA256 algorithm.
+
+2.Change Detection:
+
+* By comparing current hash values with previously stored values, the tool identifies any modifications.
+
 
 
 
